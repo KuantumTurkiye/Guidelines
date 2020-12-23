@@ -13,22 +13,22 @@ Dolayısıyla projelere katılım için başvuru yapmanız gerekmektedir. Aşağ
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Ayşin Taşdelen |
-| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Ayşin Taşdelen |
-| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Ayşin Taşdelen |
-| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Cenk Tüysüz |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
+| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
+| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Cenk Tüysüz |
 
 ### Araçlaştırma
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Araçlaştırma | NISQ Accelerated Resource Optimization | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Doğukan Tuna |
+| 2020-12-21 | Araçlaştırma | NISQ Accelerated Resource Optimization | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Doğukan Tuna |
 
 ### Protokol Geliştirme
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) | [Başvur](mailto:contributor@kuantumturkiye.org) | Açık | Zeki Seskir |
+| 2020-12-21 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Zeki Seskir |
 
 
 ## Geliştirme Ekibi Yönergesi
