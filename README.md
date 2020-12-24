@@ -22,7 +22,7 @@ Dolayısıyla projelere katılım için başvuru yapmanız gerekmektedir. Aşağ
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Araçlaştırma | NISQ Accelerated Resource Optimization | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Doğukan Tuna |
+| 2020-12-21 | Araçlaştırma | InfraQ | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Doğukan Tuna |
 
 ### Protokol Geliştirme
 
