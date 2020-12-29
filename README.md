@@ -13,9 +13,9 @@ Dolayısıyla projelere katılım için başvuru yapmanız gerekmektedir. Aşağ
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
-| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
-| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Taşdelen |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
 | 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Cenk Tüysüz |
 
 ### Araçlaştırma
