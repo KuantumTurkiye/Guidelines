@@ -11,24 +11,30 @@ Dolayısıyla projelere katılım için başvuru yapmanız gerekmektedir. Aşağ
 
 ### Kuantum Makine Öğrenimi
 
-| Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
-|:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Cenk Tüysüz |
+| Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
+|:-------|:-----|:------|:------|:------|
+| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | Kapalı | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | Açık | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | Açık | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | Açık | Cenk Tüysüz |
 
 ### Araçlaştırma
 
-| Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
-|:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Araçlaştırma | InfraQ | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Doğukan Tuna |
+| Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
+|:-------|:-----|:------|:------|:------|
+| 2020-12-21 | Araçlaştırma | InfraQ | Açık | Doğukan Tuna |
 
 ### Protokol Geliştirme
 
-| Başlangıç Tarihi | Kategori | Proje Adı | Başvuru | Katkı Durumu | Takım Lideri |
-|:-------|:-----|:------|:------|:------|:------|
-| 2020-12-21 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) | [Başvur](https://forms.gle/wiKUZKzzQqn18MMW9) | Açık | Zeki Seskir |
+| Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
+|:-------|:-----|:------|:------|:------|
+| 2020-12-21 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) |  Açık | Zeki Seskir |
+
+### STS Çalışmaları
+
+| Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
+|:-------|:-----|:------|:------|:------|
+| 2020-12-21 | STS Çalışmaları | STS Aspects of Quantum Technologies |  Açık | Zeki Seskir |
 
 
 ## Geliştirme Ekibi Yönergesi
@@ -39,7 +45,7 @@ Bu yönerge, QTurkey Proje Ekipleri departmanı tarafından açık kaynak proje 
 
 ### Hedef
 
-QTurkey ile birlikte proje yürütecek kişi/kişilerin proje hedefleri başlıca üç kategoriye ayrılmaktadır. Tüm projeler akademik proje geliştirme, eğitsel materyal geliştirme ve teknoloji geliştirme başlıklar bağlamında geliştirilir. Her bir proje açık kaynak felsefesini benimseyerek, ekosisteme katkı sunmayı hedeflemelidir.
+QTurkey ile birlikte proje yürütecek kişi/kişilerin proje hedefleri başlıca dört kategoriye ayrılmaktadır. Tüm projeler akademik proje geliştirme, eğitsel materyal geliştirme, STS çalışmaları ve teknoloji geliştirme başlıklar bağlamında geliştirilir. Her bir proje açık kaynak felsefesini benimseyerek, ekosisteme katkı sunmayı hedeflemelidir.
 
 ### Proje Fikri
 
