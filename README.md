@@ -11,30 +11,24 @@ Dolayısıyla projelere katılım için başvuru yapmanız gerekmektedir. Aşağ
 
 ### Kuantum Makine Öğrenimi
 
-| Başlangıç Tarihi | Kategori | Proje Adı | Başvuru Durumu | Takım Lideri |
+| Başlangıç Tarihi | Kategori | Proje Adı | Operasyonel Durum | Takım Lideri |
 |:-------|:-----|:------|:------|:------|
-| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | Kapalı | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | Kapalı | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | Kapalı | Ayşin Sancı |
-| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | Kapalı| Cenk Tüysüz |
-
-### Araçlaştırma
-
-| Başlangıç Tarihi | Kategori | Proje Adı | Başvuru Durumu | Takım Lideri |
-|:-------|:-----|:------|:------|:------|
-| 2021-02-01 | Araçlaştırma | InfraQ | Kapalı | Doğukan Tuna |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Quantum Music Generation | Aktif | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | QML Edge AI | Aktif | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | Image Generation | Aktif | Ayşin Sancı |
+| 2020-12-21 | Kuantum Makine Öğrenimi | PennyLane Circuit Drawer | Aktif| Cenk Tüysüz |
 
 ### Protokol Geliştirme
 
 | Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
 |:-------|:-----|:------|:------|:------|
-| 2021-02-01 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) |  Kapalı | Zeki Seskir |
+| 2021-02-01 | Protokol Geliştirme | Purification-Algo-Q (BBPSSW-DEJMPS) | Aktif | Zeki Seskir |
 
 ### STS Çalışmaları
 
-| Başlangıç Tarihi | Kategori | Proje Adı | Katkı Durumu | Takım Lideri |
+| Başlangıç Tarihi | Kategori | Proje Adı | Operasyonel Durum | Takım Lideri |
 |:-------|:-----|:------|:------|:------|
-| 2021-02-01 | STS Çalışmaları | STS Aspects of Quantum Technologies |  Açık | Zeki Seskir |
+| 2021-02-01 | STS Çalışmaları | STS Aspects of Quantum Technologies |  İnaktif | Zeki Seskir |
 
 
 ## Geliştirme Ekibi Yönergesi
